@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* tamanho do elemento é o elemento todo, tudo que ocupar do espaco é o espaco dele */
+    
+}
+
+#root, body, html{
+    min-height: 100vh; /*visual height - altura disponivel dentro da tela do navegador*/
+}
