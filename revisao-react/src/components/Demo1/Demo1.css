@@ -1,3 +1,15 @@
 .container-demo1 {
     border: 1px solid;
 }
+
+.img-dev{
+    width: 35%;
+}
+
+button{
+    background-color: #7fff94;
+    height: 40px;
+    width: 160px;
+    border: none;
+}
+
