@@ -1,0 +1,18 @@
+.mainPage {
+    min-height: 100vh;
+    background-color: #b4b4b4;
+}
+
+.header{
+
+    height: auto;
+    width: 95%;
+    margin-left: 2.5%;
+    color: blue;
+    text-align: center;
+    border-bottom: 2px grey solid;
+}
+
+.section{
+    color: blue;
+}
